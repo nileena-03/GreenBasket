@@ -10,7 +10,7 @@ body {
   color: #f1f1f1;
 }
 
-/* Navbar */
+
 .navbar {
   position: sticky;
   top: 0;
@@ -45,9 +45,8 @@ body {
   text-decoration: underline;
 }
 
-/* Section One (Top Banner) */
 .section-one {
-  background: url('https://images.unsplash.com/photo-1606787366850-de6330128bfc') no-repeat center center/cover;
+  background: url('images/photo-1606787366850-de6330128bfc.jpeg') no-repeat center center/cover;
   color: #ffffff;
   padding: 100px 20px;
   text-align: center;
@@ -79,7 +78,6 @@ body {
   background-color: #e68a00;
 }
 
-/* Section Two (Products) */
 .section-two {
   padding: 50px 30px;
   text-align: center;
@@ -139,7 +137,7 @@ body {
   background-color: #45a049;
 }
 
-/* Contact Section */
+
 .contact-section {
   padding: 40px 20px;
   background-color: #1e2d1f;
@@ -184,7 +182,6 @@ body {
   background-color: #3f9a40;
 }
 
-/* Footer */
 .footer {
   background-color: #101010;
   color: #ccc;
